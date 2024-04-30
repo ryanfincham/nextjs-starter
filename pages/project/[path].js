@@ -25,7 +25,7 @@ function Project({ project }) {
 
           <li>
             <Link href="/">
-              <a>Home</a>
+              Home
             </Link>
           </li>
         </ul>
